@@ -1,15 +1,29 @@
-.aashi{
-    color:blueviolet;
+*{
+    background-color:FFEAE3;
 }
-h3{
-    color:purple;
-}
-h4{
-    color:red;
-}
-p{
+h1{
     color:black;
+    background-color:FFB1B1;
+    font-family:calibri;
+    text-align: center;
+    font-weight: 900;
+    
+  
 }
 h2{
-    color:rgb(6, 6, 150);
+    color:121481;
+    background-color:FFB1B1;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+h3{
+    color:121481;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:left;
+    font-weight: 900;
+}
+h4{
+    color:06D001;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:left;
 }
